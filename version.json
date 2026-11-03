@@ -1,8 +1,8 @@
 {
-    "versionCode":  4,
-    "versionName":  "1.1.2",
-    "apkUrl":  "https://raw.githubusercontent.com/tuanna27693/weather_live/main/apk/LiveWeather-1.1.2.apk",
-    "sha256":  "6e7d14e5445fe043e87a414fd0733935f7dee044b89ac5febdabb0df12155fde",
-    "size":  2811016,
-    "notes":  "Màn hình ngang: mặt trời và mặt trăng đi trọn bề ngang từ Đông sang Tây như màn hình dọc; sao và Dải Ngân Hà giữ nguyên hình dạng, không bị kéo dãn.\r\nSửa lỗi mặt trời/mặt trăng trượt từ góc dưới lên mỗi khi bật lại màn hình sau một thời gian: nay hiện ngay đúng vị trí hiện tại.\r\nSửa lỗi hiện đầy sao lúc hoàng hôn (sao chỉ xuất hiện khi trời thật sự tối).\r\nSao mờ dần tự nhiên về phía chân trời, không còn đường cắt rạch ròi.\r\nSố sao theo độ tối bầu trời nơi ở (thành phố / ngoại ô / vùng quê), mặc định thành phố.\r\nDữ liệu thời tiết cũ không còn làm bầu trời đầy sao."
+    "versionCode":  5,
+    "versionName":  "1.1.3",
+    "apkUrl":  "https://raw.githubusercontent.com/tuanna27693/weather_live/main/apk/LiveWeather-1.1.3.apk",
+    "sha256":  "fc0cebe5bf37f04466e50e163e5d0454725ff3acfbfcff171169bab6cc59895c",
+    "size":  2815112,
+    "notes":  "Vuốt về màn hình chính mượt hơn: hình nền tạm nhường GPU cho hiệu ứng chuyển cảnh của launcher.\nSửa lỗi trên một số máy Samsung (Galaxy Tab S7+, S24 Ultra) hình nền vẽ nhanh hơn mức fps đã chọn (tới 90–120 khung/giây), gây giật, nóng máy và tốn pin. Nay giữ đúng fps đã chọn.\nNhận đúng tần số quét của màn hình 120 Hz.\nMáy tính bảng màn hình lớn: giảm tải GPU khi vẽ bầu trời, hình ảnh gần như không đổi. Điện thoại giữ nguyên chất lượng.\nTự hạ fps khi GPU quá tải để máy luôn mượt."
 }
