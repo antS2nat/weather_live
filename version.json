@@ -1,8 +1,8 @@
 {
-    "versionCode":  7,
-    "versionName":  "1.1.5",
-    "apkUrl":  "https://raw.githubusercontent.com/tuanna27693/weather_live/main/apk/LiveWeather-1.1.5.apk",
-    "sha256":  "99dedff961b24a1b84df8266a0eec64c8533837cfdd0b7c9a94bb551727018dc",
-    "size":  2819208,
-    "notes":  "Màn hình khóa: hình nền vẽ tối đa 30 khung/giây (mây, mưa vẫn mượt), bớt tốn pin mỗi lần màn hình sáng lên vì thông báo. Màn hình chính giữ nguyên tốc độ đã chọn.\nMáy tính bảng: về màn hình chính mượt hơn một chút nữa (bầu trời vẽ nhỏ hơn trong 0,7 giây đầu để nhường GPU cho hiệu ứng của launcher; mây mềm hơn một thoáng, khó nhận ra). Điện thoại không đổi."
+    "versionCode":  8,
+    "versionName":  "1.1.6",
+    "apkUrl":  "https://raw.githubusercontent.com/tuanna27693/weather_live/main/apk/LiveWeather-1.1.6.apk",
+    "sha256":  "56ee3ecf6565b222d19168531bbbd3e634326acdf63776d20c7c7b5b46ebd869",
+    "size":  2823304,
+    "notes":  "Hình nền chuyển động đều hơn hẳn: mỗi khung được hẹn đúng thời điểm hiển thị, hết hiện tượng cứ vài khung lại khựng một nhịp (rõ nhất khi mở app hoặc về màn hình chính trên máy Samsung).\nMây được vẽ riêng ở độ phân giải vừa đủ rồi làm nét lại khi ghép: bớt tốn GPU ở chất lượng \"Cân bằng\" và \"Đẹp nhất\" khi trời có mây, hình ảnh gần như không đổi."
 }
