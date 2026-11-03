@@ -1,8 +1,8 @@
 {
-    "versionCode":  6,
-    "versionName":  "1.1.4",
-    "apkUrl":  "https://raw.githubusercontent.com/tuanna27693/weather_live/main/apk/LiveWeather-1.1.4.apk",
-    "sha256":  "8f0c261955904ecdc5912e350f0044c2faf283a7bdd5b84fc7a8b4a71a47fa0f",
+    "versionCode":  7,
+    "versionName":  "1.1.5",
+    "apkUrl":  "https://raw.githubusercontent.com/tuanna27693/weather_live/main/apk/LiveWeather-1.1.5.apk",
+    "sha256":  "99dedff961b24a1b84df8266a0eec64c8533837cfdd0b7c9a94bb551727018dc",
     "size":  2819208,
-    "notes":  "Giảm tải GPU khi vẽ bầu trời: phần \"mây che Mặt Trời\" nay tính một lần mỗi khung thay vì cho từng điểm ảnh; trời u ám kín bỏ bớt phép tính không nhìn thấy. Hình ảnh không đổi.\nTùy chọn mới trong Hiệu năng \u0026 pin: \"Bầu trời vẽ 30 lần/giây\" để tiết kiệm pin trên điện thoại. Mặc định tắt vì trên một số máy tính bảng nó làm launcher giật khi vuốt trang.\nNhận đúng tần số quét màn hình trong mọi trường hợp (trước đây có thể đo sai khi GPU bận).\nMưa rào nhẹ không còn bị bỏ sót: khi cả hai nguồn dữ liệu đều nhắc tới mưa và một nguồn đo được lượng mưa, app hiển thị mưa nhẹ thay vì \"nhiều mây\". Một nguồn đơn lẻ vẫn không tự thêm mưa."
+    "notes":  "Màn hình khóa: hình nền vẽ tối đa 30 khung/giây (mây, mưa vẫn mượt), bớt tốn pin mỗi lần màn hình sáng lên vì thông báo. Màn hình chính giữ nguyên tốc độ đã chọn.\nMáy tính bảng: về màn hình chính mượt hơn một chút nữa (bầu trời vẽ nhỏ hơn trong 0,7 giây đầu để nhường GPU cho hiệu ứng của launcher; mây mềm hơn một thoáng, khó nhận ra). Điện thoại không đổi."
 }
