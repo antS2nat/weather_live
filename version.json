@@ -1,8 +1,8 @@
 {
-    "versionCode":  9,
-    "versionName":  "1.1.7",
-    "apkUrl":  "https://raw.githubusercontent.com/tuanna27693/weather_live/main/apk/LiveWeather-1.1.7.apk",
-    "sha256":  "63d99b962e30ec3e49b2efd1b8cc9f4a44add43b71195225b537f1a1c3633efc",
-    "size":  2823304,
-    "notes":  "Sửa giao diện tối của hai ô chọn \"Thời tiết\" và \"Thời điểm trong ngày\" trong Cài đặt: chữ nay luôn rõ, mục đang chọn được tô màu nổi bật thay vì bị mờ hoặc trống."
+    "versionCode":  10,
+    "versionName":  "1.1.8",
+    "apkUrl":  "https://raw.githubusercontent.com/tuanna27693/weather_live/main/apk/LiveWeather-1.1.8.apk",
+    "sha256":  "196d7d24413f1b6b6a42c6964240ae71d8763584e6ba2899b2b3fbc1fdfef28f",
+    "size":  2794632,
+    "notes":  "Cài đặt mới \"Tần suất cập nhật thời tiết\": 30 phút, 1 tiếng, 4 tiếng, 8 tiếng hoặc thủ công (chỉ cập nhật khi bạn bấm làm mới). Áp dụng cho cả hình nền và widget.\nCác ô chọn (tần suất cập nhật, thời tiết và thời điểm xem thử) chuyển sang dạng bottom sheet: chữ luôn rõ, mục đang chọn nổi bật, danh sách tự cuộn tới mục đang chọn.\nBỏ phần nhật ký thời tiết và nút \"Xoá vị trí đã lưu\". Dữ liệu nhật ký cũ trên máy sẽ được xoá."
 }
