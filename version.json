@@ -1,8 +1,8 @@
 {
-    "versionCode":  8,
-    "versionName":  "1.1.6",
-    "apkUrl":  "https://raw.githubusercontent.com/tuanna27693/weather_live/main/apk/LiveWeather-1.1.6.apk",
-    "sha256":  "56ee3ecf6565b222d19168531bbbd3e634326acdf63776d20c7c7b5b46ebd869",
+    "versionCode":  9,
+    "versionName":  "1.1.7",
+    "apkUrl":  "https://raw.githubusercontent.com/tuanna27693/weather_live/main/apk/LiveWeather-1.1.7.apk",
+    "sha256":  "63d99b962e30ec3e49b2efd1b8cc9f4a44add43b71195225b537f1a1c3633efc",
     "size":  2823304,
-    "notes":  "Hình nền chuyển động đều hơn hẳn: mỗi khung được hẹn đúng thời điểm hiển thị, hết hiện tượng cứ vài khung lại khựng một nhịp (rõ nhất khi mở app hoặc về màn hình chính trên máy Samsung).\nMây được vẽ riêng ở độ phân giải vừa đủ rồi làm nét lại khi ghép: bớt tốn GPU ở chất lượng \"Cân bằng\" và \"Đẹp nhất\" khi trời có mây, hình ảnh gần như không đổi."
+    "notes":  "Sửa giao diện tối của hai ô chọn \"Thời tiết\" và \"Thời điểm trong ngày\" trong Cài đặt: chữ nay luôn rõ, mục đang chọn được tô màu nổi bật thay vì bị mờ hoặc trống."
 }
