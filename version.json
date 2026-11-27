@@ -1,8 +1,8 @@
 {
-    "versionCode":  11,
-    "versionName":  "1.1.9",
-    "apkUrl":  "https://raw.githubusercontent.com/tuanna27693/weather_live/main/apk/LiveWeather-1.1.9.apk",
-    "sha256":  "52d97a1bd278fbc39162805926cbb8976f0fadbf46e346c157af51285b572346",
-    "size":  2794632,
-    "notes":  "Mây bay chậm và tự nhiên hơn: tốc độ vẫn theo gió thực tế nhưng giảm khoảng 4–5 lần (gió 20 km/h: mây đi hết màn hình trong khoảng 1 phút thay vì 12 giây). Gió giật chỉ đẩy mây nhẹ theo từng đợt, viền mây không còn trượt nhanh trên thân mây. Mức dùng GPU không đổi."
+    "versionCode":  12,
+    "versionName":  "1.2.0",
+    "apkUrl":  "https://raw.githubusercontent.com/tuanna27693/weather_live/main/apk/LiveWeather-1.2.0.apk",
+    "sha256":  "a99631f99755af803b7d2731c6a492f2f316a78d709af4e7816f0ab5c341ca33",
+    "size":  2806920,
+    "notes":  "Mây mới: có khối, viền mềm, phần mây mỏng hơi trong; ánh sáng xuyên qua mây tự nhiên hơn, viền sáng quanh mặt trời, đáy mây ửng màu lúc bình minh và hoàng hôn. Ít tốn GPU hơn bản trước.\nThêm mây ti (vệt mảnh trên cao) và chọn kiểu mây theo mây tầng thấp, giữa, cao từ Open-Meteo (ví dụ trời u ám toàn mây tầng cao là lớp mây mỏng, mưa phùn là lớp mây phẳng).\nSửa lỗi trên một số máy Samsung: hình nền có lúc vẽ quá nhiều khung hình (làm nóng máy, tốn pin), và bị giới hạn 30 khung/giây ở màn hình chính sau khi mở khóa."
 }
