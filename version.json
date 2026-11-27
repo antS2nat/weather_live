@@ -1,8 +1,8 @@
 {
-    "versionCode":  14,
-    "versionName":  "1.2.2",
-    "apkUrl":  "https://raw.githubusercontent.com/tuanna27693/weather_live/main/apk/LiveWeather-1.2.2.apk",
-    "sha256":  "5c4a4722dd476aaf93b23ca91726ad284380c30c41b3250f6acbea93e936dd92",
-    "size":  2806920,
-    "notes":  "Mây không còn bị uốn cong: mây ti là những vệt thẳng mảnh, viền mây mềm, hết các sợi xoăn ở mép."
+    "versionCode":  15,
+    "versionName":  "1.2.3",
+    "apkUrl":  "https://raw.githubusercontent.com/tuanna27693/weather_live/main/apk/LiveWeather-1.2.3.apk",
+    "sha256":  "daf563e1fd8bc5f8a127eec59bbc085490ca889dd188626b64a93e8d3ed0fad5",
+    "size":  2802824,
+    "notes":  "Bỏ mây ti (các vệt mảnh trên cao). Khi trời chủ yếu có mây tầng cao, mây được vẽ mỏng hơn."
 }
