@@ -1,8 +1,8 @@
 {
-    "versionCode":  12,
-    "versionName":  "1.2.0",
-    "apkUrl":  "https://raw.githubusercontent.com/tuanna27693/weather_live/main/apk/LiveWeather-1.2.0.apk",
-    "sha256":  "a99631f99755af803b7d2731c6a492f2f316a78d709af4e7816f0ab5c341ca33",
+    "versionCode":  13,
+    "versionName":  "1.2.1",
+    "apkUrl":  "https://raw.githubusercontent.com/tuanna27693/weather_live/main/apk/LiveWeather-1.2.1.apk",
+    "sha256":  "8d1a3b2081e902603f4dc7b11fcc0c5bb80f4e384b565b23f80a98dd4bb8cc6b",
     "size":  2806920,
-    "notes":  "Mây mới: có khối, viền mềm, phần mây mỏng hơi trong; ánh sáng xuyên qua mây tự nhiên hơn, viền sáng quanh mặt trời, đáy mây ửng màu lúc bình minh và hoàng hôn. Ít tốn GPU hơn bản trước.\nThêm mây ti (vệt mảnh trên cao) và chọn kiểu mây theo mây tầng thấp, giữa, cao từ Open-Meteo (ví dụ trời u ám toàn mây tầng cao là lớp mây mỏng, mưa phùn là lớp mây phẳng).\nSửa lỗi trên một số máy Samsung: hình nền có lúc vẽ quá nhiều khung hình (làm nóng máy, tốn pin), và bị giới hạn 30 khung/giây ở màn hình chính sau khi mở khóa."
+    "notes":  "Đổi địa chỉ kiểm tra bản cập nhật sang địa chỉ mới của kho phát hành. Nên cập nhật để các bản sau tiếp tục đến máy bạn. Không đổi gì về hình nền."
 }
