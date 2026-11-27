@@ -1,8 +1,8 @@
 {
-    "versionCode":  13,
-    "versionName":  "1.2.1",
-    "apkUrl":  "https://raw.githubusercontent.com/tuanna27693/weather_live/main/apk/LiveWeather-1.2.1.apk",
-    "sha256":  "8d1a3b2081e902603f4dc7b11fcc0c5bb80f4e384b565b23f80a98dd4bb8cc6b",
+    "versionCode":  14,
+    "versionName":  "1.2.2",
+    "apkUrl":  "https://raw.githubusercontent.com/tuanna27693/weather_live/main/apk/LiveWeather-1.2.2.apk",
+    "sha256":  "5c4a4722dd476aaf93b23ca91726ad284380c30c41b3250f6acbea93e936dd92",
     "size":  2806920,
-    "notes":  "Đổi địa chỉ kiểm tra bản cập nhật sang địa chỉ mới của kho phát hành. Nên cập nhật để các bản sau tiếp tục đến máy bạn. Không đổi gì về hình nền."
+    "notes":  "Mây không còn bị uốn cong: mây ti là những vệt thẳng mảnh, viền mây mềm, hết các sợi xoăn ở mép."
 }
